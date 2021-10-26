@@ -18,13 +18,13 @@ Dialogflow is a natural language understanding platform used to design and integ
 ## MyBot
 
 * I have deployed my bot with Telegram using telegrams Fatherbot.
-![img1](https://github.com/hissh05/helmet-detection/blob/main/demo_images/telegram.png)
+![img1](https://github.com/hissh05//blob/main/demo_images/telegram.png)
 
 ## How i created?
 
 * I started with Dialogflow which is easy to learn and work with.it gives you demo chatbot in side of screen
 * In dialogflow Create a Intent and entities.
-* And Mark which all are entites.Best is to import entites and store in entities block.(in my case it was food names)
+* And Mark which all are entites.Best is to import entites and store in entities block.(in my case it was food names).Check The foodentity.txt file.
 * Then i created a flask api which will get the request from dialogflow.To connect api and dialogflow.In fullfilment option You paste the link of the api.
 * Upload your api to Heroku and get the link from there and paste in fullfillment.
 
