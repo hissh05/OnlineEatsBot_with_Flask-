@@ -18,7 +18,10 @@ Dialogflow is a natural language understanding platform used to design and integ
 ## MyBot
 
 * I have deployed my bot with Telegram using telegrams Fatherbot.
-![img1](https://github.com/hissh05//blob/main/demo_images/telegram.png)
+![img1](https://github.com/hissh05/OnlineEatsBot_with_Flask-/blob/master/Botimage.png)
+
+* Link To My Bot
+		(t.me/Hissh05Bot)
 
 ## How i created?
 
