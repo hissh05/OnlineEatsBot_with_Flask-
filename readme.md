@@ -21,7 +21,7 @@ Dialogflow is a natural language understanding platform used to design and integ
 ![img1](https://github.com/hissh05/OnlineEatsBot_with_Flask-/blob/master/Botimage.png)
 
 * Link To My Bot
-		(t.me/Hissh05Bot)
+		(https://t.me/Hissh05Bot)
 
 ## How i created?
 
